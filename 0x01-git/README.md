@@ -1,6 +1,6 @@
 <div align="center">
 
-Git
+# Git
   
   Learning the basics of git
 
